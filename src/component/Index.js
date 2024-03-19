@@ -12,5 +12,6 @@ import Footer from "./Footer/Footer"
 import PostForm from "./post-form/PostForm"
 import Logo from "./Logo"
 import Spinner from "./Spinner"
+import PassGen from "./PassGen"
 
-export {Input,Login,PostCard,Select,Button,RTE,SignUp,AuthLayout,Header,Footer,LogoutBtn,PostForm,Spinner,Logo}
+export {Input,Login,PostCard,Select,Button,RTE,SignUp,AuthLayout,Header,Footer,LogoutBtn,PostForm,Spinner,PassGen,Logo}
